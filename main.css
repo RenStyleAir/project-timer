@@ -1,0 +1,31 @@
+body{
+    text-align: center;
+}
+
+
+#timer{
+    width: 40%;
+    margin: 0 auto;
+    margin-top: 60px;
+    color: #c42f2f;
+    background-color: #ebddd1;
+    border: solid 4px black;
+    border-radius: 20px;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+#reset{
+
+    margin: 15px ;
+    margin-bottom: 20px;
+    padding-right: 50px;
+    padding-left: 50px;
+    margin-right: 150px;
+}
+
+#display{
+    margin-top: 40px;
+    font-size: 55px;
+}
+
